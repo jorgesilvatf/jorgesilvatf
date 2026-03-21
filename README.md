@@ -1,6 +1,15 @@
 # Hello and Welcome to my Portfolio/Profile 👋
 
 <!--
+Understanding why I code.
+I have been coding for a very long time.
+I can’t help it.
+I always told myself and others “I value what I do.”
+But what is it that I do?
+Why do I do it?
+I hope to explore these questions here.
+
+-------------
 
 I'm a passionate developer who loves building cool things.
 
@@ -13,6 +22,7 @@ Stats of Programm Languages
 Hiperfocus in languages
 :D
 
+Languages of scripting, programming, signal...
 
 
 
