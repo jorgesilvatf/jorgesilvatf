@@ -2,9 +2,9 @@
 
 
 
-# Portfolio:
+## Portfolio em Construção... :briefcase: 
 
-
+<!--
 
 * Front-end
 * Back-end
@@ -19,11 +19,10 @@
 * Databases
 * Program Language
 * Archteture
-* 
+* Web server application 
 
 
 
-<!--
 Understanding why I code.
 I have been coding for a very long time.
 I can’t help it.
