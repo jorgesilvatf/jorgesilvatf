@@ -1,4 +1,27 @@
-# Hello and Welcome to my Portfolio/Profile 👋
+# Welcome to my Profile 👋
+
+
+
+# Portfolio:
+
+
+
+* Front-end
+* Back-end
+* Data
+* 
+
+
+
+## By:
+
+* Stack
+* Databases
+* Program Language
+* Archteture
+* 
+
+
 
 <!--
 Understanding why I code.
