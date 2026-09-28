@@ -1,8 +1,6 @@
 # Welcome to my Profile 👋
 
-
-
-## Portfolio em Construção... :briefcase: 
+## :briefcase: ​Portfolio em Manutenção :construction::construction_worker: 
 
 <!--
 
